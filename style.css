@@ -45,6 +45,10 @@ main {
     width: 100%;
 }
 
+.main_left {
+    perspective: 400px;
+}
+
 .main_right {
     margin-top: 40px;
     display: flex;
@@ -91,3 +95,4 @@ p {
     display: flex;
     align-items: center;
 }
+
